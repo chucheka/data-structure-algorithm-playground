@@ -1,0 +1,33 @@
+# Compiled files
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+junit.xml
+
+# Personal files
+.settings/
+
+# Ignore everything in the backup directory
+backup/*
+
+# Ignore vendor libraries
+vendor/*
+
+# Ignore IntelliJ IDEA artifacts
+.idea/artifacts/
+
+# Exclude specific file within a pattern
+*.iml!important.iml
+
+# Ignore all .DS_Store files
+**/.DS_Store
+
+# Ignore all macOS resource forks (._*)
+._*
