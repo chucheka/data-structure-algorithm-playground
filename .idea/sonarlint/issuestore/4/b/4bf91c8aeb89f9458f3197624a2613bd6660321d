@@ -1,0 +1,8 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "chars".(ëüĞ¢
+@
+java:S1481"*Remove this unused "chars" local variable.(ëüĞ¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‚ş
+L
+java:S1144%"1Remove this unused private "reverseArray" method.(×À»ôúÿÿÿÿ
