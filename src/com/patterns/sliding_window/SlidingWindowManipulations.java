@@ -65,13 +65,13 @@ public class SlidingWindowManipulations {
     public static void main(String[] args) {
 
         //   System.out.println(lengthOfTheLongestSubstringWithoutRepeatingCharacters("pwwkwew"));
-        System.out.println("THE MAX SUM IS " + maximumSubArrayOfKLength(new int[]{2, 1, 5, 1, 3, 2}, 3));
+//        System.out.println("THE MAX SUM IS " + maximumSubArrayOfKLength(new int[]{2, 1, 5, 1, 3, 2}, 3));
+        System.out.println("THE MAX SUM IS " + maximumSubArrayOfKLength(new int[]{-2, 1, -5, 1, 3, -2}, 2));
 
     }
 
 
     private static int maximumSubArrayOfKLength(int[] arr, int k) {
-
 
         int max_sum = 0;
         int curr_sum = 0;
